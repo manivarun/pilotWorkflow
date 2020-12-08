@@ -1,0 +1,11 @@
+{
+  "main" : "pilotWorkflow.raml",
+  "name" : "pilotWorkflow",
+  "classifier" : "raml",
+  "tags" : [ ],
+  "groupId" : "18cef35e-b9d9-4fdd-8335-fda6cba086dc",
+  "assetId" : "pilotWorkflow",
+  "version" : "1.0.0",
+  "apiVersion" : "",
+  "dependencies" : [ ]
+}
